@@ -1,0 +1,9 @@
+
+`Release-2` is kept because it was the most recently deployed to `Environment-1`
+`Release-1` is kept because it was the most recently deployed to `Environment-2`
+`Release-6` is kept because it was the most recently deployed to `Environment-1`
+`Release-6` is kept because it was the most recently deployed to `Environment-2`
+`Release-2` is kept because it was the most recently deployed to `Environment-1`
+`Release-1` is kept because it was the most recently deployed to `Environment-2`
+`Release-6` is kept because it was the most recently deployed to `Environment-1`
+`Release-6` is kept because it was the most recently deployed to `Environment-2`
